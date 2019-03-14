@@ -1,0 +1,13 @@
+package ch03;
+
+public class Exam03 {
+	public static void main(String[] args) {
+		int 피제수 = 23;
+		int 제수 = 5;
+		boolean result;
+		System.out.println("몫:" + 4);
+		System.out.println("나머지:" + 1);
+		
+				
+	}
+}
